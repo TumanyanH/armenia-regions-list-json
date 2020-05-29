@@ -1,0 +1,52 @@
+[
+    {
+        "en_region" : "Aragatsotn",
+        "ru_region" : "Арагацотн",
+        "am_region" : "Արագածոտն"
+    },
+    {
+        "en_region" : "Ararat",
+        "ru_region" : "Арарат",
+        "am_region" : "Արարատ"
+    },
+    {
+        "en_region" : "Armavir",
+        "ru_region" : "Армавир",
+        "am_region" : "Արմավիր"
+    },
+    {
+        "en_region" : "Gegharkunik",
+        "ru_region" : "Гегаркуник",
+        "am_region" : "Գեղարքունիք"
+    },
+    {
+        "en_region" : "Kotayk",
+        "ru_region" : "Котайк",
+        "am_region" : "Կոտայք"
+    },
+    {
+        "en_region" : "Lori",
+        "ru_region" : "Лори",
+        "am_region" : "Լոռի"
+    },
+    {
+        "en_region" : "Shirak",
+        "ru_region" : "Ширак",
+        "am_region" : "Շիրակ"
+    },
+    {
+        "en_region" : "Syunik",
+        "ru_region" : "Сюник",
+        "am_region" : "Սյունիք"
+    },
+    {
+        "en_region" : "Tavush",
+        "ru_region" : "Тавуш",
+        "am_region" : "Տավուշ"
+    },
+    {
+        "en_region" : "Vayots Dzor",
+        "ru_region" : "Вайоц Дзор",
+        "am_region" : "Վայոց ձոր"
+    }
+]
